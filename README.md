@@ -1,2 +1,2 @@
 # Inventory-Control-System
-Inventory Control System using C# .net
+Here is a sketch of a small inventory control system made with C# .net. The system is embryonic and there will be improvements.
